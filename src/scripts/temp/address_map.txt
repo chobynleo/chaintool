@@ -1,0 +1,6 @@
+{
+    "0x7a250d5630b4cf539739df2c5dacb4c659f2488d": "Uniswap V2: Router 2",
+    "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2": "Wrapped Ether",
+    "0x49428f057dd9d20a8e4c6873e98afd8cd7146e3b": "SignataDAO",
+    "0x4eeea05c9318d6bd9ddaa5a6a001f1916fbd4c9f": "Uniswap V2: dSATA"
+}

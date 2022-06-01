@@ -1,0 +1,8 @@
+{
+    "0xb6f9de95": "function swapExactETHForTokensSupportingFeeOnTransferTokens(uint256 amountOutMin,address[] path,address to,uint256 deadline)",
+    "0xd0e30db0": "function deposit()",
+    "0xa9059cbb": "function transfer(address to,uint256 value) returns (bool )",
+    "0x70a08231": "function balanceOf(address ) returns (uint256 )",
+    "0x0902f1ac": "function getReserves() returns (uint112 _reserve0,uint112 _reserve1,uint32 _blockTimestampLast)",
+    "0x022c0d9f": "function swap(uint256 amount0Out,uint256 amount1Out,address to,bytes data)"
+}
